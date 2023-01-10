@@ -19,11 +19,17 @@ Simple plots are then generated to show the altitude as a function of time,
 velocity as a function of time, air resistance as a function of time as well as 
 some others.
 
+## Running this Notebook
+
+To run, clone this repo and ensure that you have matplotlib, seaborn, and pandas installed.
+It should run well with that. Please feel free to clone and use as wanted. 
+Reach out to Travis Magaluk with any questions you have. 
+
 ## Future Work
 
 This project is a pretty simple model of a rocket as a projectile going straight
 up and down. I would love to add some features to make it a more robust simulation. 
 Features include: 
-1. Wind speed and its effect on the rocket. 
-2. Web based dashboard to allow users to toggle buttons and sliders to more interactively play with the parameters and see the results.
+1. Wind speed and its effect on the rocket.
+3. Web based dashboard to allow users to toggle buttons and sliders to more interactively play with the parameters and see the results.
 
